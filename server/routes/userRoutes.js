@@ -4,7 +4,9 @@ import { registerScholar, registerFaculty, loginUser, getUserProfile, verifyToke
 import { protect } from "../middleware/authMiddleware.js";
 
 userRouter.post("/register/scholar", registerScholar);
+
 userRouter.post("/register/faculty", registerFaculty);
+
 userRouter.post("/login", loginUser);
 
 userRouter.get("/:id", protect, getUserProfile);
