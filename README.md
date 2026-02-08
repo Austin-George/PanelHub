@@ -1,2 +1,2 @@
-# mern-project-template-SSLlab-monsoon2025
-This is the template created for MERN project for SSL Lab in Moonsoon 2025 for MTech First year student 
+## PanelHub
+A project for NITC where scholars and faculties are provided with centraized platform, where scholars can choose their panel members(faculties) for project/thesis presentation and faculties can approve the requests.
